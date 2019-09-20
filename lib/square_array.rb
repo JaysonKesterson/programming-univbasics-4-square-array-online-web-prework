@@ -10,8 +10,8 @@ def square_array(array)
   return newarray
 end
 
-#numbers = [1,2,3]
-#square_array(numbers)
+numbers = [1,2,3]
+square_array(numbers)
 
-#puts numbers
+puts numbers
 
