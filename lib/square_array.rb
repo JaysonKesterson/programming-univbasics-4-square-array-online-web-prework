@@ -10,6 +10,6 @@ def square_array(array)
   return newarray
 end
 
-puts square_array([5,10,12])
+
 
 
